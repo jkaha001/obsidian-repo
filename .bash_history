@@ -394,3 +394,54 @@ git push
 git push
 git remote get-url origin
 git remote set-url origin
+ls
+exit
+[200~
+gh repo clone microsoft/vscode-docker
+gh auth login
+[200~
+gh repo clone microsoft/vscode-docker
+gh auth login
+gh auth login
+gh auth login help
+gh auth login ultamat007@yahoo.com
+ls
+./ValidateUPS.exe 
+./ValidateUPS.exe --help
+sudo ./apcrun.exe 
+./apc 
+./apcrun.exe 
+git-bash
+ls
+pwd
+[200~
+ETtheOP@MasterETtheOP MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+ AMDRM_Install.log
+ AppData/
+'Application Data'@
+ BullseyeCoverageError.txt
+'Cisco Packet Tracer 8.2.1'/
+git config --global gpg.x509.program smimesign
+git config --local gpg.format x509
+git config --global gpg.program smimesign
+[200~
+smimesign --list-keys
+wget https://github.com/github/smimesign/releases/download/v0.2.0-rc1/smimesign-windows-v0.2.0-rc1.exe
+curl https://github.com/github/smimesign/releases/download/v0.2.0-rc1/smimesign-windows-v0.2.0-rc1.exe
+ls
+cd 
+"C:\Users\ETtheOP\Downloads\smimesign-windows-v0.2.0-rc1.exe"
+git config gpg.x509.program
+git config --global gpg.format x509
+git config --global gpg.program smimesign
+smimesign --list-keys
+git config --global user.signingkey 4F073803A8EB2B41
+sudo apt install smimesign
+apt install smimesign
+install
+install smimesign
+help
+https://github.com/github/smimesign/releases/download/v0.2.0-rc1/smimesign-windows-v0.2.0-rc1.exe
+install https://github.com/github/smimesign/releases/download/v0.2.0-rc1/smimesign-windows-v0.2.0-rc1.exe

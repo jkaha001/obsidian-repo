@@ -1,1 +1,1 @@
-[]
+[{"id":"ca11eaf10b69027799b4b0e91111e904317cd2a5de2a2be2065253c39585c2b3","name":"psobfuscation","state":{"status":"running","reason":"running"},"source":"git","repository":"https://github.com/gh0x0st/invoke-psobfuscation","labels":["com.docker.devenvironments=true"],"workingDir":"C:\\Users\\ETtheOP\\.docker\\devenvironments\\psobfuscation","CreationDate":"2023-08-20T22:47:54-07:00","CloningDate":"2023-08-20T22:48:57-07:00","subDirectory":""}]

@@ -53,7 +53,7 @@ set linkfgcolor blue
 set circleoutlinecolor SystemWindowText
 set diffbgcolors {"#fff3f3" "#f0fff0"}
 set web_browser {cmd /c start}
-set geometry(main) 1262x759+234+234
+set geometry(main) 1262x759+260+260
 set geometry(state) normal
 set geometry(topwidth) 1262
 set geometry(topheight) 225
