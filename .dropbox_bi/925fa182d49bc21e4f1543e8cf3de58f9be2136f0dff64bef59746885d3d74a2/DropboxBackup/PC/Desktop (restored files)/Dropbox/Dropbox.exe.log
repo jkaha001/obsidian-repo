@@ -1,0 +1,38 @@
+!! dropbox: assigning process to named job object dbx61884
+!! dropbox: assigned process to named job object with handle 00000228
+dropbox: loading watchdog
+dropbox: loaded watchdog. executing watchdog_main
+dropbox: starting main app
+dropbox: package full name is <unpackaged>
+dropbox: loading bootstrap
+dropbox: initializing
+dropbox: initializing python 3.7.5
+dropbox: setting program path 'C:\Program Files (x86)\Dropbox\Client\Dropbox.exe'
+dropbox: setting python path 'C:\Program Files (x86)\Dropbox\Client\101.4.434;C:\Program Files (x86)\Dropbox\Client\101.4.434\python-packages.zip'
+dropbox: python initialized
+dropbox: running dropbox
+dropbox: setting args
+dropbox: applying overrides
+dropbox: running main script
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\tornado.speedups.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\cryptography.hazmat.bindings._constant_time.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\cryptography.hazmat.bindings._openssl.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\cryptography.hazmat.bindings._padding.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\apex._apex.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\psutil._psutil_windows.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\win32com.shell.shell.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\enterprise_data.compiled._enterprise_data.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtWidgets.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.sip.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtCore.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtGui.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\wrapt._wrappers.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtWebEngineWidgets.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtWebChannel.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtNetwork.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtWebEngineCore.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtPrintSupport.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtWinExtras.cp37-win32.pyd'
+dropbox: load fq extension 'C:\\Program Files (x86)\\Dropbox\\Client\\101.4.434\\PyQt5.QtWebEngine.cp37-win32.pyd'
+b'(Qt:Debug) Use of deprecated not thread-safe setter, use setUrlRequestInterceptor instead.'
+b'(Qt:Debug) Use of deprecated not thread-safe setter, use setUrlRequestInterceptor instead.'

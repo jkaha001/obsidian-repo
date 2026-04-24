@@ -1,0 +1,421 @@
+itemString,itemName,stackSize,quantity,price,otherPlayer,player,time,source
+i:33444,Pungent Seal Whey,5,5,1700,Merchant,Etlol,1610834730,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1610853569,Vendor
+i:115500,?,1,1,80000,Merchant,Etlol,1610853571,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1610971931,Vendor
+i:171349,Potion of Phantom Fire,7,7,3670300,Wongbank,Etlol,1610102974,Auction
+i:172368,Enchant Weapon - Sinful Revelation,1,1,14450000,Aubelia,Etlol,1610983000,Auction
+i:172366,Enchant Weapon - Celestial Guidance,1,1,2991700,Loriethien,Etlol,1610983025,Auction
+i:172364,Enchant Ring - Tenet of Versatility,1,1,3409000,Hxx,Etlol,1610983150,Auction
+i:116397,?,1,1,40000,Merchant,Etlol,1611038323,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1611047906,Vendor
+i:58090,Earthen Potion,1,1,20000,Merchant,Etlol,1611047908,Vendor
+i:151609,Tears of the Naaru,1,1,4800,Merchant,Etlol,1611047909,Vendor
+i:152550,Sea Mist Potion,1,3,10000,Merchant,Etlol,1611047911,Vendor
+i:144410,Barrel-Aged Stormstout,1,1,200,Merchant,Etlol,1611047968,Vendor
+i:144411,?,1,1,200,Merchant,Etlol,1611047975,Vendor
+i:183858,?,1,1,12150000,Merchant,Etlol,1611048065,Vendor
+i:172419,Enchant Boots - Eternal Agility,1,1,5500000,Ssjctail,Etlol,1611048258,Auction
+i:172366,Enchant Weapon - Celestial Guidance,1,1,2991500,Mcknuggets,Etlol,1611048307,Auction
+i:163548,Kul Tiran Tripel,1,1,52400,Merchant,Etlol,1611049259,Vendor
+i:4404,Silver Contact,1,1,80,Merchant,Etlol,1611085621,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1611086144,Vendor
+i:144410,Barrel-Aged Stormstout,1,1,200,Merchant,Etlol,1611086163,Vendor
+i:163643,Haustvald 25 Year Runewood Cask,1,1,194900,Merchant,Etlol,1611086167,Vendor
+i:163548,Kul Tiran Tripel,1,1,52400,Merchant,Etlol,1611086174,Vendor
+i:55689::2:1690:6654:1:9:35,?,1,1,23925,Merchant,Etlol,1611127259,Vendor
+i:4404,Silver Contact,1,2,80,Merchant,Etlol,1611153618,Vendor
+i:171833,Elethium Ore,3,3,1020700,Valthonus,Etlol,1611155752,Auction
+i:171830,Oxxein Ore,200,200,140000,Multiple Sellers,Etlol,1611155772,Auction
+i:171832,Sinvyr Ore,200,200,452100,Multiple Sellers,Etlol,1611155787,Auction
+i:171831,Phaedrum Ore,200,200,229600,Multiple Sellers,Etlol,1611155798,Auction
+i:171428,Shadowghast Ingot,200,200,935000,Kittypiee,Etlol,1611156600,Auction
+i:178787,Orboreal Shard,100,100,1370900,Phame,Etlol,1611156628,Auction
+i:172089,Desolate Leather,20,20,25000,Trouttman,Etlol,1611157168,Auction
+i:136377,Oversized Bobber,20,20,3520,Merchant,Etlol,1611159472,Vendor
+i:171437,Shaded Sharpening Stone,4,4,155000,Bodega,Etlol,1611314050,Auction
+i:171276,Spectral Flask of Power,7,7,6999000,Tinytriceps,Etlol,1611314084,Auction
+i:7676,Thistle Tea,6,6,120,Merchant,Etlol,1611315053,Vendor
+i:183951,Immortal Shard,1,2,90000,Merchant,Etlol,1611349837,Vendor
+i:172059,Rich Grazer Milk,10,50,4250,Merchant,Etlol,1611350265,Vendor
+i:178786,Lusterwheat Flour,10,30,3500,Merchant,Etlol,1611350268,Vendor
+i:172056,Medley of Transplanar Spices,10,30,5000,Merchant,Etlol,1611350341,Vendor
+i:182560::2:1711:6907:1:9:60,?,1,1,376638,Merchant,Etlol,1611510702,Vendor
+i:63293,?,1,1,150,Merchant,Etlol,1611585613,Vendor
+i:163548,Kul Tiran Tripel,1,1,52400,Merchant,Etlol,1611585616,Vendor
+i:144410,Barrel-Aged Stormstout,1,1,200,Merchant,Etlol,1611585618,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1611587448,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1611669761,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1611756555,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1611758762,Vendor
+i:184652,Phantasmic Infuser,1,1,50000,Merchant,Etlol,1611765427,Vendor
+i:183786,?,1,1,50000,Merchant,Etlol,1611886514,Vendor
+i:179307,Drab of Tuica Moonshine,1,1,32400,Merchant,Etlol,1611886566,Vendor
+i:178221,Torchberry Wine,1,1,32400,Merchant,Etlol,1611886567,Vendor
+i:144410,Barrel-Aged Stormstout,1,1,200,Merchant,Etlol,1611886574,Vendor
+i:172057,Inconceivably Aged Vinegar,10,20,3188,Merchant,Etlol,1611941281,Vendor
+i:172056,Medley of Transplanar Spices,10,30,4250,Merchant,Etlol,1611941290,Vendor
+i:172059,Rich Grazer Milk,10,30,3613,Merchant,Etlol,1611941295,Vendor
+i:183242,?,1,1,9350000,Merchant,Etlol,1611941669,Vendor
+i:183245,?,1,1,9350000,Merchant,Etlol,1612026170,Vendor
+i:178991,?,1,1,80000,Merchant,Etlol,1612026175,Vendor
+i:184351,?,1,1,10000000,Merchant,Etlol,1612026190,Vendor
+i:183740,?,1,1,240000000,Merchant,Etlol,1612026198,Vendor
+i:178991,?,1,1,20000,Merchant,Etlol,1612026223,Vendor
+i:144410,Barrel-Aged Stormstout,1,1,200,Merchant,Etlol,1612027715,Vendor
+i:163098,Tradewinds Kolsch,1,1,32400,Merchant,Etlol,1612027720,Vendor
+i:182123,?,1,1,32400,Merchant,Etlol,1612027722,Vendor
+i:163643,Haustvald 25 Year Runewood Cask,1,1,194900,Merchant,Etlol,1612027726,Vendor
+i:171437,Shaded Sharpening Stone,20,20,350000,Aeids,Etlol,1612155139,Auction
+i:171349,Potion of Phantom Fire,20,20,2199900,Multiple Sellers,Etlol,1612155125,Auction
+i:171285,Shadowcore Oil,20,20,140000,Racoon,Etlol,1612155179,Auction
+i:30817,Simple Flour,5,5,4,Merchant,Etlol,1612192312,Vendor
+i:92794,?,1,1,8000,Merchant,Etlol,1612192426,Vendor
+i:78910,?,1,1,25600,Merchant,Etlol,1612193391,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1612194473,Vendor
+i:11026,Tree Frog Box,1,2,8000,Merchant,Etlol,1612196128,Vendor
+i:11027,Wood Frog Box,1,1,8000,Merchant,Etlol,1612196130,Vendor
+i:92794,?,1,1,8000,Merchant,Etlol,1612199656,Vendor
+i:78910,?,1,1,25600,Merchant,Etlol,1612199663,Vendor
+i:136377,Oversized Bobber,5,20,3520,Merchant,Etlol,1612201495,Vendor
+i:42436,?,1,3,72000,Merchant,Etlol,1612202591,Vendor
+i:173043,Elysian Thade Bait,2,2,250,Merchant,Etlol,1612202720,Vendor
+i:93208,?,1,1,64000,Merchant,Etlol,1612202730,Vendor
+i:172366,Enchant Weapon - Celestial Guidance,1,1,2059800,Duurzo,Etlol,1612264966,Auction
+i:172366,Enchant Weapon - Celestial Guidance,1,1,2059800,Holyfekk,Etlol,1612264972,Auction
+i:172419,Enchant Boots - Eternal Agility,1,1,4698800,Fillmeupbois,Etlol,1612265061,Auction
+i:183097,?,1,1,3200,Merchant,Etlol,1612292049,Vendor
+i:7676,Thistle Tea,8,8,120,Merchant,Etlol,1612364991,Vendor
+i:116397,?,1,2,40000,Merchant,Etlol,1612371202,Vendor
+i:116397,?,2,2,12500,Merchant,Etlol,1612371211,Vendor
+i:177660,Enchant Cloak - Soul Vitality,1,1,14900,Clockwipe,Etlol,1612265305,Auction
+i:116397,?,1,1,40000,Merchant,Etlol,1612452548,Vendor
+i:184731,?,1,1,1966345,Merchant,Etlol,1612618177,Vendor
+i:177659,Enchant Chest - Eternal Skirmish,1,1,5200700,Douluodalu,Etlol,1612806906,Auction
+i:172364,Enchant Ring - Tenet of Versatility,1,1,2889800,Vilax,Etlol,1612807030,Auction
+i:171276,Spectral Flask of Power,18,18,7500000,Pandinus,Etlol,1612807502,Auction
+i:172059,Rich Grazer Milk,10,30,3400,Merchant,Etlol,1612816982,Vendor
+i:178786,Lusterwheat Flour,10,30,2800,Merchant,Etlol,1612816987,Vendor
+i:172366,Enchant Weapon - Celestial Guidance,1,1,3244700,Asakah,Etlol,1612860628,Auction
+i:172368,Enchant Weapon - Sinful Revelation,1,1,10002000,Bluepingguo,Etlol,1612860643,Auction
+i:172419,Enchant Boots - Eternal Agility,1,1,4800000,Tyreline,Etlol,1612860974,Auction
+i:38682,Enchanting Vellum,1,1,1000,Merchant,Etlol,1612905005,Vendor
+i:38682,Enchanting Vellum,1,1,800,Merchant,Etlol,1612909272,Vendor
+i:21574,?,1,1,100,Merchant,Etlol,1613033372,Vendor
+i:21576,?,1,1,100,Merchant,Etlol,1613033373,Vendor
+i:21571,?,1,1,100,Merchant,Etlol,1613033374,Vendor
+i:21557,?,1,3,25,Merchant,Etlol,1613033378,Vendor
+i:21558,?,1,3,25,Merchant,Etlol,1613033379,Vendor
+i:21747,?,1,1,300,Merchant,Etlol,1613033379,Vendor
+i:21559,?,1,2,25,Merchant,Etlol,1613033380,Vendor
+i:21721,?,1,1,15,Merchant,Etlol,1613033384,Vendor
+i:20008,Living Action Potion,1,2,2400,Merchant,Etlol,1613034385,Vendor
+i:18652,Schematic: Gyrofreeze Ice Reflector,1,1,12000,Merchant,Etlol,1613034417,Vendor
+i:16046,Schematic: Masterwork Target Dummy,1,1,16000,Merchant,Etlol,1613034423,Vendor
+i:18656,Schematic: Powerful Seaforium Charge,1,1,16000,Merchant,Etlol,1613034429,Vendor
+i:90655,Reins of the Thundering Ruby Cloud Serpent,1,1,350000000,Vasity,Etlol,1613223047,Trade
+i:183952,Machinist's Oil,1,3,90000,Merchant,Etlol,1613229210,Vendor
+i:38682,Enchanting Vellum,30,30,1000,Merchant,Etlol,1613254330,Vendor
+i:173168,Laestrite Setting,1,1,10000,Merchant,Etlol,1613254368,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1613326067,Vendor
+i:172364,Enchant Ring - Tenet of Versatility,1,1,4401900,Demonhamster,Etlol,1613327706,Auction
+i:21713,?,1,1,1000,Merchant,Etlol,1613397022,Vendor
+i:21571,?,20,20,100,Merchant,Etlol,1613397170,Vendor
+i:21576,?,20,20,100,Merchant,Etlol,1613397173,Vendor
+i:21576,?,1,2,100,Merchant,Etlol,1613397174,Vendor
+i:85215,Snakeroot Seed,16,16,10000,Merchant,Etlol,1613397970,Vendor
+i:136377,Oversized Bobber,5,10,4400,Merchant,Etlol,1613400422,Vendor
+i:171285,Shadowcore Oil,18,18,160500,Haizeal,Etlol,1613402510,Auction
+i:171437,Shaded Sharpening Stone,12,12,190000,Saphirae,Etlol,1613402536,Auction
+i:171370,Potion of Specter Swiftness,20,20,2745,Multiple Sellers,Etlol,1613402877,Auction
+i:171352,Potion of Empowered Exorcisms,20,20,2749200,Yuky,Etlol,1613402905,Auction
+i:171349,Potion of Phantom Fire,20,20,2070100,Multiple Sellers,Etlol,1613402956,Auction
+i:171270,Potion of Spectral Agility,20,20,2839175,Multiple Sellers,Etlol,1613402978,Auction
+i:21571,?,20,20,100,Merchant,Etlol,1613404290,Vendor
+i:172321::2:1532:6758,Umbrahide Armguards,1,1,240008000,Ilinaa,Etlol,1613469142,Auction
+i:173163,Missive of Versatility,1,1,5500000,Karpenko,Etlol,1613469671,Auction
+i:173161,Missive of Critical Strike,1,1,3227500,Karpenko,Etlol,1613469686,Auction
+i:90146,Tinker's Kit,1,2,20000,Merchant,Etlol,1613920101,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1613996215,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1614256226,Vendor
+i:171349,Potion of Phantom Fire,20,20,2049200,Bokbokgoose,Etlol,1614489765,Auction
+i:171437,Shaded Sharpening Stone,10,10,189600,Saphirae,Etlol,1614489785,Auction
+i:171285,Shadowcore Oil,8,8,145000,Etrosa,Etlol,1614489804,Auction
+i:171276,Spectral Flask of Power,7,7,6399800,Meymey,Etlol,1614489827,Auction
+i:162515,Midnight Salmon,544,544,840,Multiple Sellers,Etlol,1614533144,Auction
+i:154897,Stringy Loins,2089,2089,1111,Multiple Sellers,Etlol,1614533191,Auction
+i:178991,?,1,1,80000,Merchant,Etlol,1614533618,Vendor
+i:183244,?,1,1,9350000,Merchant,Etlol,1614533642,Vendor
+i:182668,?,1,1,15002500,Merchant,Etlol,1614533682,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1614784873,Vendor
+i:178926::2:1532:6758,Shadowghast Ring,1,1,329809900,Imliin,Etlol,1615294218,Auction
+i:173160,Missive of Haste,1,1,4024500,Karpenko,Etlol,1615294238,Auction
+i:127834,Ancient Healing Potion,1,1,1200,Merchant,Etlol,1615384352,Vendor
+i:38682,Enchanting Vellum,40,40,800,Merchant,Etlol,1615539179,Vendor
+i:43007,Northern Spices,1,1,100,Bumpers,Etlol,1615559563,Auction
+i:43007,Northern Spices,2,2,100,Bumpers,Etlol,1615560133,Auction
+i:30817,Simple Flour,5,5,5,Merchant,Etlulz,1615560662,Vendor
+i:92794,?,1,1,10000,Merchant,Etlulz,1615560934,Vendor
+i:78910,?,1,1,32000,Merchant,Etlulz,1615560947,Vendor
+i:136377,Oversized Bobber,5,20,4400,Merchant,Etlulz,1615561448,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1615891043,Vendor
+i:152550,Sea Mist Potion,1,1,10000,Merchant,Etlol,1615891055,Vendor
+i:163098,Tradewinds Kolsch,1,1,32400,Merchant,Etlol,1615891073,Vendor
+i:169661,Scrap Heap,1,1,340,Merchant,Etlol,1615891080,Vendor
+i:144411,?,1,1,200,Merchant,Etlol,1615891091,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1616297644,Vendor
+i:181359::3:1472:6646:6652,?,1,1,720422,Merchant,Etlol,1616301234,Vendor
+i:181799,Extra Large Hat,1,1,1,Merchant,Etlol,1616301235,Vendor
+i:182207,?,1,1,10000000,Merchant,Etlol,1616350673,Vendor
+i:179282,?,1,1,2000000,Merchant,Etlol,1616350681,Vendor
+i:183518,?,1,1,240000000,Merchant,Etlol,1616350682,Vendor
+i:172844::5:42:1494:4785:6515:6516,?,1,1,374378,Merchant,Etlol,1616864585,Vendor
+i:163098,Tradewinds Kolsch,1,1,32400,Merchant,Etlol,1616864608,Vendor
+i:63293,?,1,1,150,Merchant,Etlol,1616864617,Vendor
+i:180409,Crimson Altar Wine,1,1,32400,Merchant,Etlol,1616864625,Vendor
+i:171276,Spectral Flask of Power,11,11,6702800,Alekat,Etlol,1616865104,Auction
+i:171285,Shadowcore Oil,20,20,144000,Xiaohei,Etlol,1616865135,Auction
+i:171437,Shaded Sharpening Stone,11,11,200000,Triand,Etlol,1616865147,Auction
+i:171349,Potion of Phantom Fire,20,20,2489900,Mumudin,Etlol,1616865162,Auction
+i:172364,Enchant Ring - Tenet of Versatility,1,1,3259900,Quaria,Etlol,1616865287,Auction
+i:172419,Enchant Boots - Eternal Agility,1,1,2387800,Bluepingguo,Etlol,1616865345,Auction
+i:177660,Enchant Cloak - Soul Vitality,1,1,69800,Quaria,Etlol,1616865457,Auction
+i:116397,?,1,1,40000,Merchant,Etlol,1617200294,Vendor
+i:182119,?,1,1,27540,Merchant,Etlol,1617471107,Vendor
+i:182120,?,1,1,27540,Merchant,Etlol,1617471112,Vendor
+i:182121,Corpse Reanimator,1,1,27540,Merchant,Etlol,1617471114,Vendor
+i:184203,?,1,1,250000,Merchant,Etlol,1617475087,Vendor
+i:171285,Shadowcore Oil,8,8,121300,Thankyousale,Etlol,1617543878,Auction
+i:171349,Potion of Phantom Fire,8,8,1999900,Faefudge,Etlol,1617543892,Auction
+i:172057,Inconceivably Aged Vinegar,10,10,3000,Merchant,Etlol,1617683493,Vendor
+i:178786,Lusterwheat Flour,10,20,2800,Merchant,Etlol,1617683497,Vendor
+i:172056,Medley of Transplanar Spices,10,20,4000,Merchant,Etlol,1617683503,Vendor
+i:172059,Rich Grazer Milk,10,10,3400,Merchant,Etlol,1617683567,Vendor
+i:172062,Smothered Shank,6,6,1250,Merchant,Etlol,1617684050,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1617688687,Vendor
+i:183952,Machinist's Oil,1,1,90000,Merchant,Etlol,1617710674,Vendor
+i:172233,Drums of Deathly Ferocity,20,20,1377790,Multiple Sellers,Etlol,1617710488,Auction
+i:171285,Shadowcore Oil,3,3,140000,Wtfcow,Etlol,1617710524,Auction
+i:171349,Potion of Phantom Fire,3,3,1999900,Sondren,Etlol,1617710558,Auction
+i:39690,Volatile Blasting Trigger,4,4,2393900,Horkvir,Etlol,1617710569,Auction
+i:171833,Elethium Ore,10,10,719890,Multiple Sellers,Etlol,1617710810,Auction
+i:171841,Shaded Stone,7,7,49800,Velorea,Etlol,1617710825,Auction
+i:180733,Luminous Flux,1,20,90000,Merchant,Etlol,1617710892,Vendor
+i:184107::1:6652,?,1,1,468322,Merchant,Etlol,1617798679,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1618043050,Vendor
+i:173067,Vantus Rune: Castle Nathria,20,20,5000000,Multiple Sellers,Etlol,1618154254,Auction
+i:173049,Tome of the Still Mind,20,20,1999900,Multiple Sellers,Etlol,1618157318,Auction
+i:116925,?,1,1,2000,Merchant,Etlol,1618203144,Vendor
+i:182122,Ardenwood Vermouth,1,2,32400,Merchant,Etlol,1618203161,Vendor
+i:178221,Torchberry Wine,1,1,32400,Merchant,Etlol,1618203162,Vendor
+i:179307,Drab of Tuica Moonshine,1,1,32400,Merchant,Etlol,1618203163,Vendor
+i:171437,Shaded Sharpening Stone,14,14,490000,Saphirae,Etlol,1618313665,Auction
+i:171285,Shadowcore Oil,10,10,118800,Multiple Sellers,Etlol,1618313678,Auction
+i:171276,Spectral Flask of Power,9,9,5295800,Shõcktherapy,Etlol,1618313686,Auction
+i:171349,Potion of Phantom Fire,15,15,1899000,Multiple Sellers,Etlol,1618313701,Auction
+i:38682,Enchanting Vellum,17,17,800,Merchant,Etlol,1618399693,Vendor
+i:172364,Enchant Ring - Tenet of Versatility,1,1,1369700,Thicthighx,Etlol,1618923248,Auction
+i:172319::2:1532:6758,Umbrahide Pauldrons,1,1,157100000,Anotah,Etlol,1619175473,Auction
+i:171285,Shadowcore Oil,15,15,110000,Dancol,Etlol,1619366598,Auction
+i:171349,Potion of Phantom Fire,20,20,1253700,Trueblade,Etlol,1619366619,Auction
+i:171276,Spectral Flask of Power,6,6,3729400,Kalargyi,Etlol,1619366633,Auction
+i:171437,Shaded Sharpening Stone,7,7,350000,Icinite,Etlol,1619366643,Auction
+i:172062,Smothered Shank,1,1,1250,Merchant,Etlol,1619527245,Vendor
+i:172059,Rich Grazer Milk,10,10,3400,Merchant,Etlol,1620312747,Vendor
+i:178786,Lusterwheat Flour,10,20,2800,Merchant,Etlol,1620312749,Vendor
+i:172058,Smuggled Azerothian Produce,10,20,3600,Merchant,Etlol,1620312752,Vendor
+i:172057,Inconceivably Aged Vinegar,10,10,3000,Merchant,Etlol,1620312800,Vendor
+i:172056,Medley of Transplanar Spices,10,10,4000,Merchant,Etlol,1620312810,Vendor
+i:182653,Larion Treats,5,5,1790,Merchant,Etlol,1620313194,Vendor
+i:30817,Simple Flour,5,5,4,Merchant,Etlol,1620315539,Vendor
+i:78910,?,1,1,25600,Merchant,Etlol,1620315792,Vendor
+i:92794,?,1,1,8000,Merchant,Etlol,1620315855,Vendor
+i:136377,Oversized Bobber,5,20,3520,Merchant,Etlol,1620397679,Vendor
+i:78910,?,1,1,25600,Merchant,Etlol,1620499549,Vendor
+i:136377,Oversized Bobber,5,5,3520,Merchant,Etlol,1620501811,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1620504119,Vendor
+i:115500,?,1,1,80000,Merchant,Etlol,1620504125,Vendor
+i:171276,Spectral Flask of Power,1,1,3998000,Shõcktherapy,Etlol,1619873599,Auction
+i:171285,Shadowcore Oil,4,4,120000,Jiñ,Etlol,1620501281,Auction
+i:171276,Spectral Flask of Power,2,2,3707000,Kalargyi,Etlol,1620501295,Auction
+i:171352,Potion of Empowered Exorcisms,17,17,1285294,Multiple Sellers,Etlol,1620501321,Auction
+i:171270,Potion of Spectral Agility,12,12,1396400,Multiple Sellers,Etlol,1620501345,Auction
+i:116925,?,1,1,2000,Merchant,Etlol,1620514844,Vendor
+i:179307,Drab of Tuica Moonshine,1,1,32400,Merchant,Etlol,1620514865,Vendor
+i:172058,Smuggled Azerothian Produce,10,30,3600,Merchant,Etlol,1621095178,Vendor
+i:172059,Rich Grazer Milk,10,10,3400,Merchant,Etlol,1621095183,Vendor
+i:178786,Lusterwheat Flour,10,10,2800,Merchant,Etlol,1621095186,Vendor
+i:172057,Inconceivably Aged Vinegar,10,10,3000,Merchant,Etlol,1621095246,Vendor
+i:172056,Medley of Transplanar Spices,10,10,4000,Merchant,Etlol,1621095286,Vendor
+i:172043,Feast of Gluttonous Hedonism,1,1,1250,Merchant,Etlol,1621095323,Vendor
+i:179314,Creeping Crawler Meat,6,6,625,Merchant,Etlol,1621440350,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1621443610,Vendor
+i:183134,?,1,1,10000000,Merchant,Etlol,1621444015,Vendor
+i:178336,?,1,1,2000000,Merchant,Etlol,1621444027,Vendor
+i:180729,?,1,1,240000000,Merchant,Etlol,1621444030,Vendor
+i:171276,Spectral Flask of Power,2,2,5158500,Gerrdruid,Etlol,1621770667,Auction
+i:171349,Potion of Phantom Fire,12,12,1900000,Avatar,Etlol,1621770676,Auction
+i:171285,Shadowcore Oil,12,12,193750,Multiple Sellers,Etlol,1621770704,Auction
+i:171352,Potion of Empowered Exorcisms,11,11,1950000,Multiple Sellers,Etlol,1621770715,Auction
+i:171437,Shaded Sharpening Stone,8,8,506500,Pearseidon,Etlol,1621770724,Auction
+i:90146,Tinker's Kit,1,1,20000,Merchant,Etlol,1621777089,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1622093258,Vendor
+i:179307,Drab of Tuica Moonshine,1,2,32400,Merchant,Etlol,1622093287,Vendor
+i:179278,Shadeskin Brandy,1,1,32400,Merchant,Etlol,1622093288,Vendor
+i:38682,Enchanting Vellum,1,1,1000,Merchant,Etlol,1622093482,Vendor
+i:38682,Enchanting Vellum,20,20,1000,Merchant,Etlol,1622093496,Vendor
+i:173043,Elysian Thade Bait,5,5,22000,Merchant,Etlol,1622093540,Vendor
+i:171276,Spectral Flask of Power,3,3,4836900,Mumudin,Etlol,1622212049,Auction
+i:171285,Shadowcore Oil,8,8,119000,Faefudge,Etlol,1622212059,Auction
+i:172368,Enchant Weapon - Sinful Revelation,1,1,6797700,Bankforever,Etlol,1622212167,Auction
+i:172366,Enchant Weapon - Celestial Guidance,1,1,1999800,Leongistotem,Etlol,1622212248,Auction
+i:178387::2:1472:6646,?,1,1,361440,Merchant,Etlol,1622214072,Vendor
+i:171349,Potion of Phantom Fire,7,7,1769900,Mumudin,Etlol,1622213014,Auction
+i:128535,Enchanted Pen,1,1,99900000,Noteven,Etlol,1622213318,Auction
+p:1699,Enchanted Cauldron,1,1,99949700,Maxmajere,Etlol,1622213381,Auction
+i:172406,Enchant Gloves - Shadowlands Gathering,1,1,1006700,Mulley,Etlol,1622213693,Auction
+i:172416,Enchant Bracers - Shaded Hearthing,1,1,488500,Sarahwit,Etlol,1622213940,Auction
+i:18647,Schematic: Red Firework,1,1,1440,Merchant,Etlol,1622216193,Vendor
+i:22729,?,1,1,6400,Merchant,Etlol,1622216198,Vendor
+i:38682,Enchanting Vellum,1,2,1000,Merchant,Etlol,1622216449,Vendor
+i:12162,Plans: Hardened Iron Shortsword,1,1,2400,Merchant,Etlol,1622216576,Vendor
+i:39690,Volatile Blasting Trigger,23,23,1200,Multiple Sellers,Etlol,1622354809,Auction
+i:173411,?,1,1,50000,Merchant,Etlol,1622359830,Vendor
+i:173468::3:1470:4785:6513,?,1,1,600843,Merchant,Etlol,1622359838,Vendor
+i:174353,Questionable Meat,4,4,50,Merchant,Etlol,1622359839,Vendor
+i:90146,Tinker's Kit,1,1,20000,Merchant,Etlol,1622555694,Vendor
+i:94288,Giant Dinosaur Bone,3612,3612,22285,Multiple Sellers,Etlol,1622358067,Auction
+i:172419,Enchant Boots - Eternal Agility,1,1,2179600,Velunna,Etlol,1622897884,Auction
+i:171285,Shadowcore Oil,6,6,149000,Sabredancer,Etlol,1622897970,Auction
+i:171349,Potion of Phantom Fire,10,10,1649800,Mumudin,Etlol,1622897985,Auction
+i:179278,Shadeskin Brandy,1,1,32400,Merchant,Etlol,1626670334,Vendor
+i:178221,Torchberry Wine,1,1,32400,Merchant,Etlol,1626670334,Vendor
+i:38682,Enchanting Vellum,17,17,1000,Merchant,Etlol,1627871993,Vendor
+i:186762::3:43:1485:6646,?,1,1,1246942,Merchant,Etlol,1627879570,Vendor
+i:172366,Enchant Weapon - Celestial Guidance,1,1,1699900,Leongistotem,Etlol,1627881019,Auction
+i:78910,?,1,1,25600,Merchant,Etlol,1628335817,Vendor
+i:92794,?,1,1,8000,Merchant,Etlol,1628336330,Vendor
+i:136377,Oversized Bobber,5,10,3520,Merchant,Etlol,1628341697,Vendor
+i:78910,?,1,1,25600,Merchant,Etlol,1628404594,Vendor
+i:173204,Lightless Silk,2,2,3,Merchant,Etlol,1628405102,Vendor
+i:38682,Enchanting Vellum,6,6,1000,Merchant,Etlol,1628410758,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1628416449,Vendor
+i:186684,Memories of Brighter Times,1,1,8713,Merchant,Etlol,1628416455,Vendor
+i:182123,?,1,1,32400,Merchant,Etlol,1628416525,Vendor
+i:64920,?,1,1,12536,Merchant,Etlol,1629017745,Vendor
+i:64905,?,1,1,12763,Merchant,Etlol,1629018071,Vendor
+i:64913,?,1,1,11896,Merchant,Etlol,1629018075,Vendor
+i:64908,?,1,1,11670,Merchant,Etlol,1629018080,Vendor
+i:38682,Enchanting Vellum,1,7,1000,Merchant,Etlol,1629019606,Vendor
+i:179282,?,1,1,2000000,Merchant,Etlol,1629556460,Vendor
+i:172366,Enchant Weapon - Celestial Guidance,1,1,1839400,Tyreline,Etlol,1629557075,Auction
+i:172055,Phantasmal Haunch,1,1,625,Merchant,Etlol,1629566015,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1629567485,Vendor
+i:186684,Memories of Brighter Times,1,1,8713,Merchant,Etlol,1629567492,Vendor
+i:182082,?,1,1,240000000,Merchant,Etlol,1629567559,Vendor
+i:180456,?,1,1,2000000,Merchant,Etlol,1629567563,Vendor
+i:177659,Enchant Chest - Eternal Skirmish,1,1,1949500,Thankyousale,Etlol,1629567813,Auction
+i:173168,Laestrite Setting,1,1,10000,Merchant,Etlol,1630756159,Vendor
+i:172364,Enchant Ring - Tenet of Versatility,2,2,2373600,Cragnar,Etlol,1630756426,Auction
+i:85777,?,1,1,31874,Merchant,Etlol,1630757041,Vendor
+i:171285,Shadowcore Oil,19,19,77500,Scrutiny,Etlol,1630757459,Auction
+i:72092,Ghost Iron Ore,8,8,149900,Bankil,Etlol,1630757524,Auction
+i:171349,Potion of Phantom Fire,10,10,1306600,Hitdat,Etlol,1630757539,Auction
+i:171437,Shaded Sharpening Stone,11,11,153800,Multiple Sellers,Etlol,1630757560,Auction
+i:72096,Ghost Iron Bar,8,8,750200,Cragnar,Etlol,1630757634,Auction
+i:90146,Tinker's Kit,1,1,20000,Merchant,Etlol,1630764290,Vendor
+i:90146,Tinker's Kit,1,1,127700,Beetlejucies,Etlol,1630903290,Auction
+i:38682,Enchanting Vellum,17,17,1000,Merchant,Etlol,1631162966,Vendor
+i:172368,Enchant Weapon - Sinful Revelation,1,1,6459800,Disky,Etlol,1631477138,Auction
+i:172366,Enchant Weapon - Celestial Guidance,1,1,3649500,Sumfknalt,Etlol,1631589363,Auction
+i:183189,?,1,1,10000000,Merchant,Etlol,1631784916,Vendor
+i:172368,Enchant Weapon - Sinful Revelation,1,1,4702900,Ffs,Etlol,1631786332,Auction
+i:171285,Shadowcore Oil,13,13,115600,Hitdat,Etlol,1632123436,Auction
+i:171276,Spectral Flask of Power,9,9,3299900,Hitdat,Etlol,1632123453,Auction
+i:163548,Kul Tiran Tripel,1,1,52400,Merchant,Etlol,1632123897,Vendor
+i:138400,?,1,1,100000,Merchant,Etlol,1632124808,Vendor
+i:9260,Volatile Rum,1,1,1600,Merchant,Etlol,1632124814,Vendor
+i:151121,?,1,1,340,Merchant,Etlol,1632125161,Vendor
+i:151122,?,1,1,680,Merchant,Etlol,1632125163,Vendor
+i:116392,Big Bag of Booty,1,3,3000000,Merchant,Etlol,1632126811,Vendor
+i:116392,Big Bag of Booty,10,10,3000000,Merchant,Etlol,1632126829,Vendor
+i:9260,Volatile Rum,1,9,1600,Merchant,Etlol,1632126903,Vendor
+i:9260,Volatile Rum,10,40,1600,Merchant,Etlol,1632126942,Vendor
+i:9260,Volatile Rum,8,8,700,Unliver,Etlol,1632216039,Auction
+i:172419,Enchant Boots - Eternal Agility,1,1,2108800,Griid,Etlol,1632216111,Auction
+i:163158,?,1,1,20000,Merchant,Etlol,1632389499,Vendor
+i:178219,Mulled Faewine,1,1,32400,Merchant,Etlol,1632389502,Vendor
+i:172366,Enchant Weapon - Celestial Guidance,1,1,2448500,Sarahwit,Etlol,1632223836,Auction
+i:172366,Enchant Weapon - Celestial Guidance,1,1,2329700,Powercentre,Etlol,1632561158,Auction
+i:184308,Disposable Spectrophasic Reanimator,15,15,3250000,Doggonator,Etlol,1632561596,Auction
+i:140332,Rivermane War Harness,1,1,250000,Merchant,Etlol,1632566389,Vendor
+i:186363::4:1459:6646:6652:7186,?,1,1,636740,Merchant,Etlol,1632684036,Vendor
+i:185894::4:1479:6646:6652:7574,?,1,1,538791,Merchant,Etlol,1632684037,Vendor
+i:128841,?,1,1,10000,Merchant,Etlol,1632824517,Vendor
+i:138869,?,1,1,9900,Merchant,Etlol,1632824523,Vendor
+i:166420,?,1,1,32400,Merchant,Etlol,1632824942,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1633182244,Vendor
+i:116397,?,1,1,40000,Merchant,Etlol,1633231563,Vendor
+i:177659,Enchant Chest - Eternal Skirmish,1,1,1988400,Squeebo,Etlol,1633438006,Auction
+i:177659,Enchant Chest - Eternal Skirmish,1,1,1987600,Gnie,Etlol,1633501997,Auction
+i:92794,?,1,2,8000,Merchant,Etlol,1633502191,Vendor
+i:78910,?,1,2,25600,Merchant,Etlol,1633502263,Vendor
+i:30817,Simple Flour,5,5,4,Merchant,Etlol,1633504903,Vendor
+i:138870,?,1,1,9900,Merchant,Etlol,1633504927,Vendor
+i:138871,?,1,1,9900,Merchant,Etlol,1633504932,Vendor
+i:138868,?,1,1,9900,Merchant,Etlol,1633504933,Vendor
+i:138869,?,1,1,9900,Merchant,Etlol,1633504949,Vendor
+i:182749,Regurgitated Kyrian Wings,1,1,100000,Merchant,Etlol,1633607820,Vendor
+i:30817,Simple Flour,5,5,4,Merchant,Etlol,1636017561,Vendor
+i:78904,?,1,2,8000,Merchant,Etlol,1636017683,Vendor
+i:92794,?,1,1,8000,Merchant,Etlol,1636017798,Vendor
+i:124670,?,1,1,1,Merchant,Etlol,1636020501,Vendor
+i:78910,?,1,2,25600,Merchant,Etlol,1636089259,Vendor
+i:185884::3:1492:6646:6652,?,1,1,832139,Merchant,Etlol,1636091936,Vendor
+i:171285,Shadowcore Oil,6,6,79900,Hitdat,Etlol,1636021685,Auction
+i:171437,Shaded Sharpening Stone,18,18,97500,Skarrd,Etlol,1636093390,Auction
+i:171276,Spectral Flask of Power,5,5,3980000,Multiple Sellers,Etlol,1636093429,Auction
+i:136377,Oversized Bobber,5,10,3520,Merchant,Etlol,1636146531,Vendor
+i:71153,?,2,2,65,Merchant,Etlol,1636158478,Vendor
+i:188152,Gateway Control Shard,1,1,1000000,Merchant,Etlol,1636779589,Vendor
+i:116925,?,1,1,2000,Merchant,Etlol,1636779616,Vendor
+i:173168,Laestrite Setting,1,2,10000,Merchant,Etlol,1636791635,Vendor
+i:171285,Shadowcore Oil,9,9,150000,Multiple Sellers,Etlol,1636791134,Auction
+i:116397,?,1,1,40000,Merchant,Etlol,1636875757,Vendor
+i:172317::2:1559:7451,Umbrahide Helm,1,1,1563013500,Clare,Etlol,1636878978,Auction
+i:173163,Missive of Versatility,1,1,4717500,Shnickerss,Etlol,1636879250,Auction
+i:172053,Tenebrous Ribs,8,8,625,Merchant,Etlol,1637051560,Vendor
+i:172055,Phantasmal Haunch,4,4,625,Merchant,Etlol,1637051640,Vendor
+i:173161,Missive of Critical Strike,1,1,1509100,Ginormodikus,Etlol,1637073151,Auction
+i:178926::2:1559:7451,Shadowghast Ring,1,1,1049790000,Nicekiss,Etlol,1637073059,Auction
+i:173168,Laestrite Setting,1,1,10000,Merchant,Etlol,1637299923,Vendor
+i:172364,Enchant Ring - Tenet of Versatility,1,1,832100,Powercentre,Etlol,1637300013,Auction
+i:171285,Shadowcore Oil,15,15,140000,Onedayy,Etlol,1637301061,Auction
+i:171349,Potion of Phantom Fire,10,10,1524600,Multiple Sellers,Etlol,1637301081,Auction
+i:171276,Spectral Flask of Power,2,2,3009900,Vending,Etlol,1637301099,Auction
+i:171437,Shaded Sharpening Stone,14,14,98800,Rageinar,Etlol,1637301108,Auction
+i:12231,Recipe: Jungle Stew,1,1,2951200,Fuzzydunlop,Etlol,1637795182,Auction
+i:12232,Recipe: Carrion Surprise,1,1,2901900,Fuzzydunlop,Etlol,1637795212,Auction
+i:45768,Glyph of Disguise,1,1,4787400,Obvious,Etlol,1637795227,Auction
+i:183954,Malleable Wire,10,10,90000,Merchant,Etlol,1637795497,Vendor
+i:178926::2:1559:7451,Shadowghast Ring,1,1,774879900,Pastapillow,Etlol,1637795829,Auction
+i:173161,Missive of Critical Strike,1,1,4000000,Karpenko,Etlol,1637795935,Auction
+i:171285,Shadowcore Oil,8,8,157600,Wanamdeebee,Etlol,1638104698,Auction
+i:171349,Potion of Phantom Fire,10,10,1200000,Cherrybullet,Etlol,1638104711,Auction
+i:124669,Darkmoon Daggermaw,830,830,80043,Multiple Sellers,Etlol,1638105042,Auction
+i:114850,?,1,2,450,Merchant,Etlol,1638111984,Vendor
+i:128647,?,1,1,27000,Merchant,Etlol,1638271515,Vendor
+i:128647,?,20,80,27000,Merchant,Etlol,1638271530,Vendor
+i:180595,Nightforged Steel,190,190,1,Merchant,Etlol,1638740010,Vendor
+i:171349,Potion of Phantom Fire,4,4,1316600,Sharký,Etlol,1638740219,Auction
+i:171276,Spectral Flask of Power,61,61,2986000,Onedayy,Etlol,1638740229,Auction
+i:171437,Shaded Sharpening Stone,4,4,299900,Skarrd,Etlol,1638740301,Auction
+i:171276,Spectral Flask of Power,5,5,2986000,Onedayy,Etlol,1638740336,Auction
+i:171349,Potion of Phantom Fire,4,4,1316600,Multiple Sellers,Etlol,1638740353,Auction
+i:171285,Shadowcore Oil,4,4,100000,Onedayy,Etlol,1638740378,Auction
+i:174283,Stygian Stew,5,10,7500,Merchant,Etlol,1638811240,Vendor
+i:173129,Versatile Jewel Cluster,1,1,259900,Scrutiny,Etlol,1638881488,Auction
+i:90146,Tinker's Kit,1,1,20000,Merchant,Etlol,1638969601,Vendor
+i:172416,Enchant Bracers - Shaded Hearthing,1,1,924600,Cherrybullet,Etlol,1638969742,Auction
+i:172408,Enchant Gloves - Eternal Strength,1,1,799000,Qingtian,Etlol,1638969828,Auction
+i:186684,Memories of Brighter Times,1,1,8713,Merchant,Etlol,1638971614,Vendor
